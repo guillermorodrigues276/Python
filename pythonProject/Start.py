@@ -3,7 +3,7 @@ print("Hello World")
 #Leitura de inteiros
 
 a = int(input())
-b = float(input())
+b = int(input())
 
 if a > b:
     print(a)
